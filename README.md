@@ -1,6 +1,4 @@
-# MATLAB_Onramp_Course
-
-10/8/23, 11:48 PM MATLAB Onramp - Quick Reference
+﻿10/8/23, 11:48 PM MATLAB Onramp - Quick Reference
 
 **MATLAB Onramp**
 
@@ -69,9 +67,10 @@ Conclusion
 
 **Array Indexing**
 
-**Example Description![](Aspose.Words.6115b405-0987-4505-a9b5-429bc5ad0396.001.png)**
-
-A**([end](https://www.mathworks.com/help/matlab/ref/end.html)**,2**)** Access the element in the second column of the last row. A**(**2,:**)** Access the entire second row.
+|**Example**|**Description**|
+|-|-|
+|A([end](https://www.mathworks.com/help/matlab/ref/end.html)**,**2)|Access the element in the second column of the last row.|
+|A**(**2,:**)**|Access the entire second row.
 
 A**(**1:3,:**)** Access all columns of the first three rows.
 
